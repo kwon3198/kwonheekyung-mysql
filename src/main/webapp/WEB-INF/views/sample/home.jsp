@@ -60,7 +60,7 @@
 		</header>
 
 		<article class="slider">
-			<img src="/resources/images/summer.jpg" alt="">
+			<img src="/resources/images/sun.jpg" alt="">
 		</article>
 		<section class="content">
 
@@ -77,22 +77,22 @@
 				<div class="container">
 					<ul class="promo-list">
 						<li><a href="#" onclick="return false"> <img
-								src="/resources/images/summer.jpg" alt="">
+								src="/resources/images/sun.jpg" alt="">
 								<h3>HOME</h3>
 								<p>휴면 교육센터 디지털 컨버전스 과정 입니다.</p>
 						</a></li>
 						<li><a href="#" onclick="return false"> <img
-								src="/resources/images/summer.jpg" alt="">
+								src="/resources/images/sun.jpg" alt="">
 								<h3>HOME</h3>
 								<p>휴면 교육센터 디지털 컨버전스 과정 입니다.</p>
 						</a></li>
 						<li><a href="#" onclick="return false"> <img
-								src="/resources/images/summer.jpg" alt="">
+								src="/resources/images/sun.jpg" alt="">
 								<h3>HOME</h3>
 								<p>휴면 교육센터 디지털 컨버전스 과정 입니다.</p>
 						</a></li>
 						<li><a href="#" onclick="return false"> <img
-								src="/resources/images/summer.jpg" alt="">
+								src="/resources/images/sun.jpg" alt="">
 								<h3>HOME</h3>
 								<p>휴면 교육센터 디지털 컨버전스 과정 입니다.</p>
 						</a></li>
@@ -108,49 +108,49 @@
 						<div class="info">
 							<h3>작업1</h3>
 							<span>소스/작업1</span>
-						</div> <img src="/resources/images/summer.jpg" alt="">
+						</div> <img src="/resources/images/sun.jpg" alt="">
 				</a></li>
 				<li><a href="#" onclick="return false">
 						<div class="info">
 							<h3>작업1</h3>
 							<span>소스/작업1</span>
-						</div> <img src="/resources/images/summer.jpg" alt="">
+						</div> <img src="/resources/images/sun.jpg" alt="">
 				</a></li>
 				<li><a href="#" onclick="return false">
 						<div class="info">
 							<h3>작업1</h3>
 							<span>소스/작업1</span>
-						</div> <img src="/resources/images/summer.jpg" alt="">
+						</div> <img src="/resources/images/sun.jpg" alt="">
 				</a></li>
 				<li><a href="#" onclick="return false">
 						<div class="info">
 							<h3>작업1</h3>
 							<span>소스/작업1</span>
-						</div> <img src="/resources/images/summer.jpg" alt="">
+						</div> <img src="/resources/images/sun.jpg" alt="">
 				</a></li>
 				<li><a href="#" onclick="return false">
 						<div class="info">
 							<h3>작업1</h3>
 							<span>소스/작업1</span>
-						</div> <img src="/resources/images/summer.jpg" alt="">
+						</div> <img src="/resources/images/sun.jpg" alt="">
 				</a></li>
 				<li><a href="#" onclick="return false">
 						<div class="info">
 							<h3>작업1</h3>
 							<span>소스/작업1</span>
-						</div> <img src="/resources/images/summer.jpg" alt="">
+						</div> <img src="/resources/images/sun.jpg" alt="">
 				</a></li>
 				<li><a href="#" onclick="return false">
 						<div class="info">
 							<h3>작업1</h3>
 							<span>소스/작업1</span>
-						</div> <img src="/resources/images/summer.jpg" alt="">
+						</div> <img src="/resources/images/sun.jpg" alt="">
 				</a></li>
 				<li><a href="#" onclick="return false">
 						<div class="info">
 							<h3>작업1</h3>
 							<span>소스/작업1</span>
-						</div> <img src="/resources/images/summer.jpg" alt="">
+						</div> <img src="/resources/images/sun.jpg" alt="">
 				</a></li>
 			</ul>
 		</section>
@@ -159,15 +159,15 @@
 				<h2 class="sec-tit" id="blog">BLOG</h2>
 				<ul class="blog-list">
 					<li><a href="#" onclick="return false"><img
-							src="/resources/images/summer.jpg" alt=""></a> <time
+							src="/resources/images/sun.jpg" alt=""></a> <time
 							datetime="2016-10-30">OCT 30, 2016</time> <a href=""><h3>타임스페이스는
 								사용자 중심의 웹페이지를 제작하는 회사 입니다.</h3></a></li>
 					<li><a href="#" onclick="return false"><img
-							src="/resources/images/summer.jpg" alt=""></a> <time
+							src="/resources/images/sun.jpg" alt=""></a> <time
 							datetime="2016-10-30">OCT 30, 2016</time> <a href=""><h3>타임스페이스는
 								사용자 중심의 웹페이지를 제작하는 회사 입니다.</h3></a></li>
 					<li><a href="#" onclick="return false"><img
-							src="/resources/images/summer.jpg" alt=""></a> <time
+							src="/resources/images/sun.jpg" alt=""></a> <time
 							datetime="2016-10-30">OCT 30, 2016</time> <a href=""><h3>타임스페이스는
 								사용자 중심의 웹페이지를 제작하는 회사 입니다.</h3></a></li>
 				</ul>
